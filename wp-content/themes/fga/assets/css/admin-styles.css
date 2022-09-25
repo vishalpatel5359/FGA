@@ -1,0 +1,10 @@
+.fga_meta_control {
+    margin: 10px 0;
+}
+.fga-inline-block-wrap {
+    display: inline-block;
+    width: 20%;
+}
+.fga-inline-block-wrap + .fga-inline-block-wrap {
+    width: 75%;
+}
